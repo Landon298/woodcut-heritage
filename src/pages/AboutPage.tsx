@@ -31,8 +31,8 @@ const AboutPage = () => {
               </p>
             </div>
             <div className="bg-amber-200 rounded-2xl p-12 text-center">
-              <span className="text-8xl">🦌</span>
-              <h3 className="text-2xl font-bold text-amber-900 mt-4">小鹿工匠</h3>
+              <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=cute%20cartoon%20deer%20character%20wearing%20traditional%20hat%20with%20antlers%20holding%20a%20carving%20knife%2C%20woodcut%20style%2C%20chinese%20traditional%20pattern%2C%20white%20background&image_size=square_hd" alt="木木" className="w-32 h-32 mx-auto" />
+              <h3 className="text-2xl font-bold text-amber-900 mt-4">木木</h3>
               <p className="text-amber-700">非遗传承大使</p>
             </div>
           </div>
