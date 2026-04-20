@@ -31,7 +31,7 @@ const AboutPage = () => {
               </p>
             </div>
             <div className="bg-amber-200 rounded-2xl p-12 text-center">
-              <img src="https://raw.githubusercontent.com/Landon298/my-blog-pic-base/main/木木.png" alt="木木" className="w-32 h-32 mx-auto object-cover rounded-full" />
+              <img src="https://raw.githubusercontent.com/Landon298/my-blog-pic-base/main/木木.png" alt="木木" className="w-48 h-48 mx-auto object-contain" />
               <h3 className="text-2xl font-bold text-amber-900 mt-4">木木</h3>
               <p className="text-amber-700">非遗传承大使</p>
             </div>
