@@ -67,7 +67,7 @@ const initialWorks: WoodcutWork[] = [
     origin: '承印千年工作室',
     description: '《山海经》中记载的瑞兽麒麟，身披鳞甲、头生龙角、足踏祥云，是吉祥如意的象征。',
     image: '/uploads/qilin-2.jpg',
-    images: ['https://github.com/Landon298/my-blog-pic-base/blob/13896cb1f4bf33d7a45b42215226d21f7c74917c/jingwei-1.jpg', 'https://github.com/Landon298/my-blog-pic-base/blob/13896cb1f4bf33d7a45b42215226d21f7c74917c/jingwei-2.jpg'],
+    images: ['https://raw.githubusercontent.com/Landon298/my-blog-pic-base/main/jingwei-1.jpg', 'https://raw.githubusercontent.com/Landon298/my-blog-pic-base/main/jingwei-2.jpg'],
     rating: 5.0,
     reviewCount: 256,
     author: '承印千年工作室',
