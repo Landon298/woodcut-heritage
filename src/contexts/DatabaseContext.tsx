@@ -180,19 +180,20 @@ const initialWorks: WoodcutWork[] = [
   },
   {
     id: 'ori-002',
-    title: '水帘洞',
-    titleEn: 'Water Curtain Cave',
+    title: '精卫填海',
+    titleEn: 'Jingwei Filling the Sea',
     category: '原创热门IP',
     series: '原创热门IP系列',
     dynasty: '现代',
     origin: '承印千年工作室',
-    description: '西游记经典场景，花果山水帘洞入口，孙悟空在洞府中展现矫健英姿，云纹匾额上刻有"水帘洞"三字。',
-    image: 'https://images.unsplash.com/photo-1578926288207-a90a5366759d?w=800&h=600&fit=crop',
+    description: '《山海经》经典神话故事，炎帝之女女娃溺水而亡化为精卫鸟，衔石填海的悲壮场景。画面中精卫鸟口衔石子，在波涛汹涌的海面上飞翔，展现出不屈不挠的精神。',
+    image: '/uploads/jingwei-1.jpg',
+    images: ['/uploads/jingwei-1.jpg', '/uploads/jingwei-2.jpg'],
     rating: 4.9,
     reviewCount: 278,
     author: '承印千年工作室',
     comments: [],
-    tags: ['孙悟空', '西游记', '花果山']
+    tags: ['精卫', '神话', '填海']
   },
   {
     id: 'ori-003',
